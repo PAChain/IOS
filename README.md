@@ -14,6 +14,8 @@ libz <br>
 libc++.1 <br>
 
 ## Usage
-Download OpenSSL into the project, or use cocoapods to import OpenSSL <br>
-Build your own server, replace the URL of the data request in the project. <br>
-run xcWorkspace <br>
+<ul>
+<li>Download OpenSSL into the project, or use cocoapods to import OpenSSL </li>
+<li>Build your own server, replace the URL of the data request in the project. </li>
+<li>run xcWorkspace </li>
+</ul>
